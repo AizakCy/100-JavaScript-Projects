@@ -4,10 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Color Button</title>
+    <style>
+        body{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+        #color-changer-btn{
+            font-family: monospace;
+            font-size: 20px;
+            color: white;
+            background-color: black;
+            padding: 10px;
+            border: 0;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <button id="color-changer-btn" onclick="changeColor()">Click on me to change the color.</button>
+        <button id="color-changer-btn" onclick="changeColor()">Click on me to change the color</button>
     </div>
 
     <script src="app.js"></script>
