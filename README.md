@@ -6,7 +6,6 @@ I’m **just getting started with development**, and this repo is my personal jo
 Here, I’m building **100 small projects** — some very simple, some a little more challenging — to learn step by step.  
 As I discover new concepts and techniques, I’ll keep adding more projects. 🚀  
 
----
 
 ## 🎯 Why This Repo?
 - To document my learning journey in JavaScript  
@@ -14,7 +13,6 @@ As I discover new concepts and techniques, I’ll keep adding more projects. �
 - To watch how my skills grow over time  
 - To share my progress with others who might also be learning  
 
----
 
 ## 🧩 What You'll Find
 - Beginner-friendly mini projects  
