@@ -1,0 +1,6 @@
+.blurEffect{
+    filter: blur(6.5px);
+}
+.img{
+    margin: 20px;
+}
